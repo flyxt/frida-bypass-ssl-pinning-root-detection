@@ -1,4 +1,6 @@
-# frida-android-unpinning
+# Frida android ssl-unpinning and root-detection bypass
+
+## android-unpinning
 
 > _Part of [HTTP Toolkit](https://httptoolkit.tech/android): powerful tools for building, testing & debugging HTTP(S)_
 
